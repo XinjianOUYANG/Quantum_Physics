@@ -63,7 +63,7 @@
 
      2. [Quantum Optics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/4cb35dc33b3675431c4ea589056c9b1fdebc84ad/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/kupdf.net_marlan-o-scully-m-suhail-zubairy-quantum-optics.pdf) marlan-o-scully-m-suhail-zubairy 进阶
     
-## 经典文章
+## 经典文章[转载]
 
 （1）Grover 算法的推广，离散量子游走算法：
 
