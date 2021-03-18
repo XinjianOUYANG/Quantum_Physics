@@ -18,7 +18,7 @@
 
 * [Griffiths - Introduction to quantum mechanics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/7cb19c0f4a429169b923b7f4d76bf49765b10b28/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/Griffiths%20-%20Introduction%20to%20quantum%20mechanics.pdf)
 
-* [清华大学 量子力学讲义](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20-%20%E6%B8%85%E5%8D%8E%E7%89%A9%E7%90%86%E7%B3%BB/0%20-%20%E7%9B%AE%E5%BD%95.pdf) 清华大学 
+* [清华大学 量子力学讲义](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20-%20%E6%B8%85%E5%8D%8E%E7%89%A9%E7%90%86%E7%B3%BB/0%20-%20%E7%9B%AE%E5%BD%95.pdf)
 
 *  [Quantum Computer Science: An Introduction](https://github.com/XinjianOUYANG/Quantum_Physics/blob/e3b40ca3218374727359e180b3472d21b879fc96/Quantum%20Computer%20Science_An%20Introduction.pdf) N. David Mermin Cornell University
 
