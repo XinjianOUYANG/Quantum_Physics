@@ -3,6 +3,8 @@
 
 ## 入门篇
 
+* [Griffiths - Introduction to quantum mechanics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/7cb19c0f4a429169b923b7f4d76bf49765b10b28/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/Griffiths%20-%20Introduction%20to%20quantum%20mechanics.pdf)
+
 * [量子力学讲义](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20-%20%E6%B8%85%E5%8D%8E%E7%89%A9%E7%90%86%E7%B3%BB/0%20-%20%E7%9B%AE%E5%BD%95.pdf) 清华大学
 
 * [Quantum Computation and Quantum Information](https://github.com/XinjianOUYANG/Quantum_Physics/blob/e3b40ca3218374727359e180b3472d21b879fc96/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97&%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1/Quantum%20Computation%20and%20Quantum%20Information.pdf) Michael A. Nielsen & Isaac L. Chuang
@@ -60,12 +62,15 @@
 
 ## 数学基础
 
+* 群论[Group Theory in a Nutshell for Physicists]()
+* [Mathematical Methods for Physics and Engineering](), 参考书，随用随学
 
 ### 一些建议
 
-硬件层面，量子光学是比较基础好学的，推荐scully Zubairy ，quantum optics 前半本书，有时候得算effective Hamiltonian 甚至重整化群，还得补补数学，群论，qft，但是可以要用再学。然后就是最好把学到的量子光学技术应用于一个具体的设备，cavityQED，nmr或者circuitQED，自己谷歌一些综述推一下。
+1. 硬件层面，量子光学是比较基础好学的，推荐scully Zubairy ，quantum optics 前半本书，有时候得算effective Hamiltonian 甚至重整化群，还得补补数学，群论，QFT，但是可以要用再学。然后就是最好把学到的量子光学技术应用于一个具体的设备，cavityQED，nmr或者circuitQED，自己谷歌一些综述推一下。
 硬件软件结合层。这也是多数理论工作者在的地方，例如量子控制，量子模拟，特殊系统的量子算法，这要看自己的方向了。
-软件层。preskill 的quantum information 讲义，习题非常有意思，可以在研究生入学之后和师兄弟，老师好好一起讨论，如果条件允许。Nielsen&Chuang的书是经典教材。
+2. 软件层。preskill 的Quantum Information 讲义，习题非常有意思，可以在研究生入学之后和师兄弟，老师好好一起讨论，如果条件允许。Nielsen&Chuang的书是经典教材。
+3. PS，量子计算与信息对数学物理素养有一定要求，应该多多研读。
 
 ### 参考
 * 知乎文章[量子计算与量子信息的一些材料](https://zhuanlan.zhihu.com/p/34183937)
