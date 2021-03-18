@@ -3,7 +3,8 @@
 
      首先，要志向远大，而非目光短浅。
      第二，永不言弃。工作赋予你意义和目标。没有它生命变成空虚。
-     第三，如果你非常幸运地找到爱，守住它，千万不要将它抛弃。—— Stephen Hawking. 与君共勉
+     第三，如果你非常幸运地找到爱，守住它，千万不要将它抛弃。
+                                   —— Stephen Hawking. 与君共勉
 
 ### 量子信息与量子计算研究常用学术期刊
 * [Arxiv-Quantum Physics](https://arxiv.org/archive/quant-ph)
