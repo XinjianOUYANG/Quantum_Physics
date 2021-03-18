@@ -55,7 +55,7 @@
 
 * [The Theory of Quantum Information](https://github.com/XinjianOUYANG/Quantum_Physics/blob/8254bbc11483e7dedede9ef3e92af905475d8342/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97&%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1/The%20Theory%20of%20Quantum%20Information%20John%20Watrous%20Institute%20for%20Quantum%20Computing%20University%20of%20Waterloo.pdf) John Watrous, Institute for Quantum Computing, University of Waterloo. 
 
-     [课程讲义](https://cs.uwaterloo.ca/~watrous/TQI/)
+     Watrous[课程讲义](https://cs.uwaterloo.ca/~watrous/TQI/)
 
 * [QUANTUM COMPUTING From Linear Algebra to Physical Realizations](https://github.com/XinjianOUYANG/Quantum_Physics/blob/8254bbc11483e7dedede9ef3e92af905475d8342/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97&%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1/QUANTUM_COMPUTING_From_Linear_Algebra_to.pdf) Mikio Nakahara, Department of Physics, Kinki University, Higashi-Osaka, Japan
 
