@@ -81,7 +81,7 @@
 
 * [Mathematical Methods for Physics and Engineering](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/Mathematical%20Methods%20for%20Physics%20and%20Engineering%20%20A%20Comprehensive%20Guide.pdf), 参考书，随用随学
 
-## 一些建议
+## 一些建议[转载]
 
 1. 硬件层面，量子光学是比较基础好学的，推荐scully Zubairy ，quantum optics 前半本书，有时候得算effective Hamiltonian 甚至重整化群，还得补补数学，群论，QFT，但是可以要用再学。然后就是最好把学到的量子光学技术应用于一个具体的设备，cavityQED，nmr或者circuitQED，自己谷歌一些综述推一下。
 硬件软件结合层。这也是多数理论工作者在的地方，例如量子控制，量子模拟，特殊系统的量子算法，这要看自己的方向了。
