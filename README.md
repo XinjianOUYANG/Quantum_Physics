@@ -1,7 +1,17 @@
 # Quantum Physics & Quantum Computation
 本项目收集了量子物理、量子计算相关书籍和文章。
 
+     首先，要志向远大，而非目光短浅。
+     第二，永不言弃。工作赋予你意义和目标。没有它生命变成空虚。
+     第三，如果你非常幸运地找到爱，守住它，千万不要将它抛弃。—— Stephen Hawking. 与君共勉
+
 ### 量子信息与量子计算研究常用学术期刊
+* [Arxiv-Quantum Physics](https://arxiv.org/archive/quant-ph)
+* [Reviews of Modern Physics](https://journals.aps.org/rmp/), 综述类
+* [Physical Review X](https://journals.aps.org/prx/) 类似physicsal review。严肃类
+* [Physical Review A](https://journals.aps.org/pra/) 专门针对量子信息的子刊。
+* [https://www.pnas.org/portal/physics]()(PNAS）美国科学院进展,这上面量子信息研究的论文也很多，质量很高。
+* 
 
 ## 入门篇
 
@@ -84,3 +94,4 @@
 ### 参考
 * 知乎文章 [量子计算与量子信息的一些材料](https://zhuanlan.zhihu.com/p/34183937)
 * 知乎文章 [量子信息与量子计算研究常用学术期刊](https://zhuanlan.zhihu.com/p/106053023)
+* 知乎文章 [超导电路量子信息处理——量子模拟，量子计算和相关理论技术]（https://zhuanlan.zhihu.com/p/33861257）
