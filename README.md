@@ -62,8 +62,8 @@
 
 ## 数学基础
 
-* 群论[Group Theory in a Nutshell for Physicists]()
-* [Mathematical Methods for Physics and Engineering](), 参考书，随用随学
+* 群论[Group Theory in a Nutshell for Physicists](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%BE%A4%E8%AE%BA%E4%B8%8E%E7%89%A9%E7%90%86/a-zee-group-theory-in-a-nutshell-for-physicists-2016-princeton-university-press.pdf)
+* [Mathematical Methods for Physics and Engineering](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/Mathematical%20Methods%20for%20Physics%20and%20Engineering%20%20A%20Comprehensive%20Guide.pdf), 参考书，随用随学
 
 ### 一些建议
 
@@ -71,6 +71,10 @@
 硬件软件结合层。这也是多数理论工作者在的地方，例如量子控制，量子模拟，特殊系统的量子算法，这要看自己的方向了。
 2. 软件层。preskill 的Quantum Information 讲义，习题非常有意思，可以在研究生入学之后和师兄弟，老师好好一起讨论，如果条件允许。Nielsen&Chuang的书是经典教材。
 3. PS，量子计算与信息对数学物理素养有一定要求，应该多多研读。
+4. 量子信息（Quantum Information）是交叉学科，偏量子方向的主要在研究量子计算，量子模拟，量子通信的物理实现，偏信息方向的主要在研究量子算法，量子计算原理，也有在做量子计算机架构的。除此以外还有量子信息与更多学科的交叉，比如与机器学习，量子引力等等，这些需要考虑你自己的研究方向再进一步阅读。关于研究的具体学习，基础知识我就不多提了，本科阶段课程学习，基本的编程能力和英语能力是必备的。
+6. 首先要建立起对所在领域的大概框架和认识，也就是需要大量的文献阅读，这个最好是你导师给你推荐几篇，自己找的话就看经典文章，不需要太新。然后读到一定程度之后，就会建立起自己的体系，再之后读文章会更得心应手。
+7. 读文章大概分成几个步骤，先了解作者的动机（Motivation），再看他的具体内容，数学计算，实验实现等等，如果可能的话尽量自己动手重新实现一遍，比如推导自己推一遍，仿真自己写一下MATLAB/Mathematica/Python（Qutip包是Python下专门用来进行量子力学模拟仿真的一个包）。然后试着总结，有可能的话在组会上做一个Presentation给没有读过的人讲一遍，所谓的Feynman学习法在这里也是起作用的，在讲的过程中可以进一步思考和发现问题。然后就是自己idea的实现了，主要还是先建立在广泛阅读别人的成果，然后选好自己的研究方向，广泛调研，多向别人请教，多和别人交流，不懈地尝试和努力，实现idea。
+8，**你最好是一个乐观主义者。其次，最好要有坚韧不拔的抗洪精神，最后，最好能深入理解半尺之锤，日取其半，万世不竭的精神，做到持之以恒。**
 
 ### 参考
 * 知乎文章[量子计算与量子信息的一些材料](https://zhuanlan.zhihu.com/p/34183937)
