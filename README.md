@@ -58,8 +58,10 @@
 * [QUANTUM COMPUTING From Linear Algebra to Physical Realizations](https://github.com/XinjianOUYANG/Quantum_Physics/blob/8254bbc11483e7dedede9ef3e92af905475d8342/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97&%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1/QUANTUM_COMPUTING_From_Linear_Algebra_to.pdf) Mikio Nakahara, Department of Physics, Kinki University, Higashi-Osaka, Japan
 
 * Quantum Optics(量子光学)
-     [Quantum Optics: An Introduction](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/Fox%20M.%20Quantum%20optics..%20an%20introduction%20(Oxford,%202006)(ISBN%200198566735)(397s)_PQ) Mark Fox 入门
-     [Quantum Optics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/4cb35dc33b3675431c4ea589056c9b1fdebc84ad/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/kupdf.net_marlan-o-scully-m-suhail-zubairy-quantum-optics.pdf)marlan-o-scully-m-suhail-zubairy 进阶
+     
+     1. [Quantum Optics: An Introduction](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/Fox%20M.%20Quantum%20optics..%20an%20introduction%20(Oxford,%202006)(ISBN%200198566735)(397s)_PQ) Mark Fox 入门
+
+     2. [Quantum Optics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/4cb35dc33b3675431c4ea589056c9b1fdebc84ad/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/kupdf.net_marlan-o-scully-m-suhail-zubairy-quantum-optics.pdf)marlan-o-scully-m-suhail-zubairy 进阶
     
 ## 经典文章
 
