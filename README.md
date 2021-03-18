@@ -11,8 +11,8 @@
 * [Reviews of Modern Physics](https://journals.aps.org/rmp/), 综述类
 * [Physical Review X](https://journals.aps.org/prx/) 类似physicsal review。严肃文章
 * [Physical Review A](https://journals.aps.org/pra/) 专门针对量子信息的子刊。
-* [https://www.pnas.org/portal/physics]()(PNAS）美国科学院进展,这上面量子信息研究的论文也很多，质量很高。
-* 
+* [https://www.pnas.org/portal/physics]()(PNAS）美国科学院进展。
+
 
 ## 入门篇
 
