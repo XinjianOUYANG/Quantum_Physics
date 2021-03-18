@@ -11,14 +11,14 @@
 * [Reviews of Modern Physics](https://journals.aps.org/rmp/), 综述类
 * [Physical Review X](https://journals.aps.org/prx/) 类似physicsal review。严肃文章
 * [Physical Review A](https://journals.aps.org/pra/) 专门针对量子信息的子刊。
-* [https://www.pnas.org/portal/physics]()(PNAS）美国科学院进展。
+* [Proceedings of the National Academy of Sciences of the United States of America](https://www.pnas.org/portal/physics) (PNAS）美国科学院进展。
 
 
 ## 入门篇
 
 * [Griffiths - Introduction to quantum mechanics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/7cb19c0f4a429169b923b7f4d76bf49765b10b28/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/Griffiths%20-%20Introduction%20to%20quantum%20mechanics.pdf)
 
-* [量子力学讲义](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20-%20%E6%B8%85%E5%8D%8E%E7%89%A9%E7%90%86%E7%B3%BB/0%20-%20%E7%9B%AE%E5%BD%95.pdf) 清华大学
+* [清华大学 量子力学讲义](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20-%20%E6%B8%85%E5%8D%8E%E7%89%A9%E7%90%86%E7%B3%BB/0%20-%20%E7%9B%AE%E5%BD%95.pdf) 清华大学 
 
 *  [Quantum Computer Science: An Introduction](https://github.com/XinjianOUYANG/Quantum_Physics/blob/e3b40ca3218374727359e180b3472d21b879fc96/Quantum%20Computer%20Science_An%20Introduction.pdf) N. David Mermin Cornell University
 
