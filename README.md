@@ -6,7 +6,7 @@
      第三，如果你非常幸运地找到爱，守住它，千万不要将它抛弃。
                                    —— Stephen Hawking. 与君共勉
 
-### 量子信息与量子计算研究常用学术期刊
+### 量子信息与量子计算研究 常用学术期刊
 * [Arxiv-Quantum Physics](https://arxiv.org/archive/quant-ph)
 * [Reviews of Modern Physics](https://journals.aps.org/rmp/), 综述类
 * [Physical Review X](https://journals.aps.org/prx/) 类似physicsal review。严肃文章
