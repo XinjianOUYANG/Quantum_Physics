@@ -64,7 +64,17 @@
      1. [Quantum Optics: An Introduction](https://github.com/XinjianOUYANG/Quantum_Physics/blob/dd1ef7c9bce9ce2767fd79484a0f9c0e9c0838cf/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/Fox%20M.%20Quantum%20optics..%20an%20introduction%20(Oxford,%202006)(ISBN%200198566735)(397s)_PQ) Mark Fox 入门
 
      2. [Quantum Optics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/4cb35dc33b3675431c4ea589056c9b1fdebc84ad/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6/kupdf.net_marlan-o-scully-m-suhail-zubairy-quantum-optics.pdf) marlan-o-scully-m-suhail-zubairy 进阶
-    
+   
+
+## 数学基础
+* 矩阵分析 -> 线性代数及其应用 -> 概率论 -> 数学分析
+
+* 数学物理方法（Green function etc）
+
+* 群论 [Group Theory in a Nutshell for Physicists](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%BE%A4%E8%AE%BA%E4%B8%8E%E7%89%A9%E7%90%86/a-zee-group-theory-in-a-nutshell-for-physicists-2016-princeton-university-press.pdf)
+
+* [Mathematical Methods for Physics and Engineering](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/Mathematical%20Methods%20for%20Physics%20and%20Engineering%20%20A%20Comprehensive%20Guide.pdf), 参考书，随用随学
+
 ## 经典文章[转载]
 
 （1）Grover 算法的推广，离散量子游走算法：
@@ -77,15 +87,6 @@
 将问题转换成Spatial Search问题的一般思路，这个读起来难一点：
 
 * Ambainis, A. Quantum Walk Algorithm for Element Distinctness. in 45th Annual IEEE Symposium on Foundations of Computer Science 37, 22–31 (IEEE, 2003).
-
-## 数学基础
-* 矩阵分析 -> 线性代数及其应用 -> 概率论 -> 数学分析
-
-* 数学物理方法（Green function etc）
-
-* 群论 [Group Theory in a Nutshell for Physicists](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%BE%A4%E8%AE%BA%E4%B8%8E%E7%89%A9%E7%90%86/a-zee-group-theory-in-a-nutshell-for-physicists-2016-princeton-university-press.pdf)
-
-* [Mathematical Methods for Physics and Engineering](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/Mathematical%20Methods%20for%20Physics%20and%20Engineering%20%20A%20Comprehensive%20Guide.pdf), 参考书，随用随学
 
 ## 一些建议[转载]
 
