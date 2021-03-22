@@ -81,6 +81,8 @@
 ## 数学基础
 * 矩阵分析 -> 线性代数及其应用 -> 概率论 -> 数学分析
 
+* 数学物理方法（Green function etc）
+
 * 群论 [Group Theory in a Nutshell for Physicists](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E7%BE%A4%E8%AE%BA%E4%B8%8E%E7%89%A9%E7%90%86/a-zee-group-theory-in-a-nutshell-for-physicists-2016-princeton-university-press.pdf)
 
 * [Mathematical Methods for Physics and Engineering](https://github.com/XinjianOUYANG/Quantum_Physics/blob/85c25d6c5a099669144cc4225c82f23a5a1ac155/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/Mathematical%20Methods%20for%20Physics%20and%20Engineering%20%20A%20Comprehensive%20Guide.pdf), 参考书，随用随学
