@@ -53,7 +53,7 @@
 
 * [Preskill, Lecture Notes for Physics 229: Quantum Information and Computation](量子计算&量子通信/Quantum_Information_and_Computation_John_Preskil.pdf)
 
-     [Course website](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
+     **[Course website](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)**
 
 * [Shankar - Principles of quantum mechanics](https://github.com/XinjianOUYANG/Quantum_Physics/blob/8254bbc11483e7dedede9ef3e92af905475d8342/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/Shankar%20-%20Principles%20of%20quantum%20mechanics.pdf)
 
