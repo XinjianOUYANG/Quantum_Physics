@@ -22,14 +22,14 @@
 
 *  [Quantum Computer Science: An Introduction](https://github.com/XinjianOUYANG/Quantum_Physics/blob/e3b40ca3218374727359e180b3472d21b879fc96/Quantum%20Computer%20Science_An%20Introduction.pdf) N. David Mermin Cornell University
 
-* Berkeley edX course CS191x [Quantum Mechanics and Quantum Computation](https://www.youtube.com/playlist?list=PLDAjb_zu5aoFazE31_8yT0OfzsTcmvAVg) video lecture series by Professor Umesh Vazirani. 
-     
 * [Quantum Computation and Quantum Information](https://github.com/XinjianOUYANG/Quantum_Physics/blob/e3b40ca3218374727359e180b3472d21b879fc96/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97&%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1/Quantum%20Computation%20and%20Quantum%20Information.pdf) Michael A. Nielsen & Isaac L. Chuang
 10th Anniversary Edition
      
 *内容提要*：
      
      本书完整系统地介绍了量子计算与量子信息的研究成果和基本知识，主要内容包括基本概念、量子路、量子Fourier 变换及其应用、量子搜索算法和量子计算机的物理实现
+     
+* Berkeley edX course CS191x [Quantum Mechanics and Quantum Computation](https://www.youtube.com/playlist?list=PLDAjb_zu5aoFazE31_8yT0OfzsTcmvAVg) video lecture series by Professor Umesh Vazirani. 
      
 *主要内容*：
 
